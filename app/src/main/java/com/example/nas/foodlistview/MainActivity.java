@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
         foodList = new ArrayList<>();
 
-        foodList.add(new FoodData("Satay", "Ayam", "0.90"));
+        foodList.add(new FoodData("Satay", "Rusa", "0.90"));
         foodList.add(new FoodData("Satay", "Daging", "1.00"));
         foodList.add(new FoodData("Satay", "Kambing", "1.50"));
         foodList.add(new FoodData("Satay", "Perut", "1.20"));
